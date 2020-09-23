@@ -1,4 +1,4 @@
-package factorymethoddemo;
+package java.factorymethoddemo;
 
 public class Main {
 

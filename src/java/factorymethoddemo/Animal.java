@@ -1,4 +1,4 @@
-package factorymethoddemo;
+package java.factorymethoddemo;
 
 interface Animal {
    public static void speak(){

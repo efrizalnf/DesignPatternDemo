@@ -1,4 +1,4 @@
-package singletondemo;
+package java.singletondemo;
 
 import java.sql.Connection;
 

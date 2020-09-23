@@ -1,4 +1,4 @@
-package builderdemo;
+package java.builderdemo;
 
 public class CustomerBuilder {
     private String id;
